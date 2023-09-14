@@ -1,0 +1,12 @@
+<-------- Employee Management System  --------->
+
+About project : In this you can add emp data & you can view all employee in table.
+                It has options to edit & delete employee data (CRUD operations).
+                Each time unique Employee id gets created for each entry.
+
+Technology Used  : Java {JDK 20}
+                 : Spring initializer / tool kit {Spring Web ,Spring Boot Dev tool,ThymeLeaf,My SQL,Spring Data JPA}
+                 : Html {Bootstrap}
+                 : MySQL : via Spring Tool kit
+
+Description : This project contains 1
